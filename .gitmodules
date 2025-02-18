@@ -1,0 +1,3 @@
+[submodule "PCB/Libraries/KiCad-RP-Pico"]
+	path = PCB/Libraries/KiCad-RP-Pico
+	url = https://github.com/Fortinbra/KiCad-RP-Pico.git
