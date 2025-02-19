@@ -1,4 +1,8 @@
 (sym_lib_table
   (version 7)
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Libraries/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "LSF0101DRYR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LSF0101DRYR/KiCADv6/2025-02-18_05-38-00.kicad_sym")(options "")(descr ""))
+  (lib (name "Mini-Fit Jr.")(type "KiCad")(uri "${KIPRJMOD}/Libraries/39281243/KiCADv6/2025-02-19_00-00-42.kicad_sym")(options "")(descr ""))
+  (lib (name "Fan Connector")(type "KiCad")(uri "${KIPRJMOD}/Libraries/470531000/KiCADv6/2025-02-19_01-13-03.kicad_sym")(options "")(descr ""))
+  (lib (name "LSF0102DCUR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LSF0102DCUR/KiCADv6/2025-02-19_02-15-02.kicad_sym")(options "")(descr ""))
 )
