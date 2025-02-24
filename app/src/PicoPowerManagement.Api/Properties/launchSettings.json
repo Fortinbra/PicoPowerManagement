@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PicoPowerManagement.Api": {
+      "commandName": "Project",
+      "launchBrowser": true
+    }
+  }
+}
