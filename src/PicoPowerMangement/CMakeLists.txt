@@ -35,7 +35,11 @@ pico_sdk_init()
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(PicoPowerMangement main.cpp )
+add_executable(PicoPowerMangement 
+    src/main.cpp 
+    src/uart_handler.cpp
+    src/pin_setup.cpp
+)
 
 pico_set_program_name(PicoPowerMangement "PicoPowerMangement")
 pico_set_program_version(PicoPowerMangement "0.1")
@@ -46,12 +50,12 @@ pico_enable_stdio_usb(PicoPowerMangement 0)
 
 # Add the standard library to the build
 target_link_libraries(PicoPowerMangement
-        pico_stdlib)
+        pico_stdlib
+        hardware_pwm)  # Add the PWM hardware library
 
 # Add the standard include files to the build
 target_include_directories(PicoPowerMangement PRIVATE
-        ${CMAKE_CURRENT_LIST_DIR}
+        ${CMAKE_CURRENT_LIST_DIR}/include
 )
 
 pico_add_extra_outputs(PicoPowerMangement)
-
