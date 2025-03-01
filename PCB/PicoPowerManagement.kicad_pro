@@ -601,6 +601,14 @@
     [
       "450b940c-8305-4571-abac-103e5c28560c",
       "Root"
+    ],
+    [
+      "959f076d-7a80-4a8e-b58c-8ce3cee1da94",
+      "USB0"
+    ],
+    [
+      "028caaf3-7be4-41aa-9da6-9dcd3e7b5627",
+      "USB1"
     ]
   ],
   "text_variables": {}

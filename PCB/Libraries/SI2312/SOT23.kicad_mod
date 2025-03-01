@@ -1,0 +1,215 @@
+(footprint "SOT23"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "<b>SMALL OUTLINE TRANSISTOR</b><p>reflow soldering")
+	(property "Reference" "REF**"
+		(at 3.81 -1.778 0)
+		(layer "F.SilkS")
+		(uuid "5b98b8ea-69b6-44ab-8c69-8d23af7af03e")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SOT23"
+		(at 0.127 2.7686 0)
+		(layer "F.Fab")
+		(uuid "dabc42a2-9d08-409d-a89a-c9a5316e941c")
+		(effects
+			(font
+				(size 0.64 0.64)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e42aa11-9807-452f-95f8-2f9c4d0c6200")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b285050b-2c9f-44c2-a22c-41df27313596")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.4224 -0.6604)
+		(end -0.7636 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "76024657-ded5-4d20-a28a-e278c7f06f77")
+	)
+	(fp_line
+		(start -1.4224 0.1524)
+		(end -1.4224 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "fbe746b7-4aed-4b73-8b25-53cbd44df097")
+	)
+	(fp_line
+		(start 0.7636 -0.6604)
+		(end 1.4224 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "369dbe8e-2b53-47df-8c88-ecb688064f3e")
+	)
+	(fp_line
+		(start 1.4224 -0.6604)
+		(end 1.4224 0.1524)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d748e592-d227-477b-87d5-7f65601315e3")
+	)
+	(fp_poly
+		(pts
+			(xy -0.5001 -0.3) (xy 0.5001 -0.3) (xy 0.5001 0.3) (xy -0.5001 0.3)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "Dwgs.User")
+		(uuid "429badbc-b35d-4569-9349-c7597caf8759")
+	)
+	(fp_line
+		(start -1.4224 -0.6604)
+		(end 1.4224 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "de3eaddb-ad0f-4d44-b433-d6eda040cc3d")
+	)
+	(fp_line
+		(start -1.4224 0.6604)
+		(end -1.4224 -0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8c91604f-e413-4678-ba91-088848380622")
+	)
+	(fp_line
+		(start 1.4224 -0.6604)
+		(end 1.4224 0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1983ff56-d41e-4c70-9269-27cc03308ce1")
+	)
+	(fp_line
+		(start 1.4224 0.6604)
+		(end -1.4224 0.6604)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e85306b6-c638-4f74-8f0e-4dd83597de6f")
+	)
+	(fp_poly
+		(pts
+			(xy -1.1684 0.7112) (xy -0.7112 0.7112) (xy -0.7112 1.2954) (xy -1.1684 1.2954)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "fc5d8a4d-de43-4e84-9081-b3b7426e9fe9")
+	)
+	(fp_poly
+		(pts
+			(xy -0.2286 -1.2954) (xy 0.2286 -1.2954) (xy 0.2286 -0.7112) (xy -0.2286 -0.7112)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "4e589e2d-3331-4055-8d7d-691646edeee7")
+	)
+	(fp_poly
+		(pts
+			(xy 0.7112 0.7112) (xy 1.1684 0.7112) (xy 1.1684 1.2954) (xy 0.7112 1.2954)
+		)
+		(stroke
+			(width 0.01)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "95486821-39f2-439c-8b21-a640b963d9ac")
+	)
+	(pad "1" smd rect
+		(at -0.95 1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "29870992-0a8c-4c8a-b206-0069ab2153f0")
+	)
+	(pad "2" smd rect
+		(at 0.95 1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "88637ddb-3241-46b2-85bc-536f05bafd34")
+	)
+	(pad "3" smd rect
+		(at 0 -1.1)
+		(size 1 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "8b91065b-2a05-49bf-9b19-574a9cbb8032")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)

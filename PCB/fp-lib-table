@@ -5,4 +5,8 @@
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/Libraries/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
   (lib (name "Fan Connector")(type "KiCad")(uri "${KIPRJMOD}/Libraries/470531000/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "LSF0102DCUR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LSF0102DCUR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "FUSB302")(type "KiCad")(uri "${KIPRJMOD}/Libraries/FUSB302MPX/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "UJ20_C_V_C_3_SMT_TR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/UJ20_C_V_C_3_SMT_TR")(options "")(descr ""))
+  (lib (name "GSB3CA11310DSHR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/GSB3CA11310DSHR")(options "")(descr ""))
+  (lib (name "SI2312")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SI2312")(options "")(descr ""))
 )

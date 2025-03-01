@@ -1,16 +1,18 @@
 ﻿@inherits LayoutComponentBase
-<div style="height:480px; width:800px; outline:solid 1px #000">
-    <FluentMainLayout NavMenuTitle="Navigation" IsNavMenuCollapsed="true">
-        <Header>
-            <h3>Pico Power Management</h3>
-        </Header>
-        <Body>
+<FluentLayout Style="width:800px; height:480px; border: solid 1px #000">
+    <FluentHeader></FluentHeader>
+    <FluentStack Orientation="Orientation.Horizontal" Width="100%" Style="height:100%">
+        <FluentNavMenu Style="width:20%">
+            <FluentNavLink Href="/" Icon="@(new Icons.Regular.Size24.Home())">Home</FluentNavLink>
+            <FluentNavLink Href="fans" Icon="@(new Icons.Regular.Size24.Doctor())">Fans</FluentNavLink>
+        </FluentNavMenu>
+        <FluentBodyContent Style="height:100%;">
             @Body
-        </Body>
-        <NavMenuContent>
-            <FluentNavLink Href="/" Text="Home">Home</FluentNavLink>
-            <FluentNavLink Href="/" Text="Fans">Fans</FluentNavLink>
-        </NavMenuContent>
-    </FluentMainLayout>
-
-</div>
+        </FluentBodyContent>
+    </FluentStack>
+</FluentLayout>
+<FluentToastProvider />
+<FluentDialogProvider />
+<FluentTooltipProvider />
+<FluentMessageBarProvider />
+<FluentMenuProvider />
