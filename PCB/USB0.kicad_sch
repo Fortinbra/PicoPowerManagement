@@ -1580,10 +1580,22 @@
 		(uuid "55b85512-d06a-4e1d-8635-d936d047c7e0")
 	)
 	(junction
+		(at 147.32 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "581a2c78-41b1-4c61-bd97-a2e761021181")
+	)
+	(junction
 		(at 102.87 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "60eb7c22-0d5b-4908-b291-d8ca416851f1")
+	)
+	(junction
+		(at 82.55 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62d1ce31-e5a1-4989-ac26-5f7e5457d6cf")
 	)
 	(junction
 		(at 35.56 59.69)
@@ -1608,6 +1620,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7aa70a78-8dbd-4e50-9d49-ab25ea3447af")
+	)
+	(junction
+		(at 142.24 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7df8d486-10b2-4e1b-aadb-a3481884a1f4")
 	)
 	(junction
 		(at 120.65 88.9)
@@ -1650,6 +1668,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a42a7ca6-eeb8-440f-bd86-d122d8d8176d")
+	)
+	(junction
+		(at 87.63 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7597499-8ee4-4d37-81c1-8a9dd7bb6b1d")
 	)
 	(junction
 		(at 180.34 93.98)
@@ -1904,6 +1928,16 @@
 	(no_connect
 		(at 189.23 46.99)
 		(uuid "fe2390c5-5231-4b9a-ba94-05b7252d668d")
+	)
+	(wire
+		(pts
+			(xy 85.09 100.33) (xy 85.09 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01721b89-91bf-4a06-9b91-9fb1be7221b7")
 	)
 	(wire
 		(pts
@@ -2237,6 +2271,16 @@
 	)
 	(wire
 		(pts
+			(xy 142.24 91.44) (xy 147.32 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3733d060-d919-4d1e-97f4-c3d96e4afa07")
+	)
+	(wire
+		(pts
 			(xy 81.28 41.91) (xy 71.12 41.91)
 		)
 		(stroke
@@ -2347,6 +2391,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 91.44) (xy 82.55 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44d5ea5d-7c0e-4977-9334-7caff874e661")
+	)
+	(wire
+		(pts
 			(xy 83.82 36.83) (xy 95.25 36.83)
 		)
 		(stroke
@@ -2354,6 +2408,26 @@
 			(type default)
 		)
 		(uuid "490db67e-1013-4d20-aef1-ab6a68eaad78")
+	)
+	(wire
+		(pts
+			(xy 137.16 91.44) (xy 142.24 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b6ef433-e17a-476b-9941-abfe8d7aee42")
+	)
+	(wire
+		(pts
+			(xy 87.63 95.25) (xy 87.63 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b8770fd-f789-4709-b871-6e9a2a5cdd22")
 	)
 	(wire
 		(pts
@@ -2454,6 +2528,16 @@
 			(type default)
 		)
 		(uuid "617d0548-7ca9-4ac8-9293-e3935d15518a")
+	)
+	(wire
+		(pts
+			(xy 77.47 86.36) (xy 87.63 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6388a40c-c3e7-4423-ace0-eed6c119df93")
 	)
 	(wire
 		(pts
@@ -2677,6 +2761,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 91.44) (xy 82.55 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86597992-24d9-415a-a28a-a9c744257176")
+	)
+	(wire
+		(pts
 			(xy 91.44 81.28) (xy 102.87 81.28)
 		)
 		(stroke
@@ -2784,6 +2878,16 @@
 			(type default)
 		)
 		(uuid "9cdee1c6-1eac-4b2d-9e70-6893c17ddc08")
+	)
+	(wire
+		(pts
+			(xy 137.16 86.36) (xy 147.32 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9efc5fb3-6cab-4d34-ab44-d1b6b1f70215")
 	)
 	(wire
 		(pts
@@ -3064,6 +3168,16 @@
 			(type default)
 		)
 		(uuid "dab8f91a-adea-4f19-8f34-558a7f009939")
+	)
+	(wire
+		(pts
+			(xy 85.09 100.33) (xy 87.63 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db82128d-b04f-4b77-8cab-8e48ef0cc6b2")
 	)
 	(wire
 		(pts
@@ -4369,6 +4483,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 87.63 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "28bceb5c-d1bf-41ee-9f24-5ee9290a8cbf")
+		(property "Reference" "C39"
+			(at 90.17 96.5262 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 90.17 99.0662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 87.63 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.63 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 87.63 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "24fee96f-3c7b-40ee-a72b-612f858b3aa0")
+		)
+		(pin "2"
+			(uuid "d082e42a-b4f8-473a-9d0e-d8134d6d2464")
+		)
+		(instances
+			(project "PicoPowerManagement"
+				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
+					(reference "C39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 71.12 54.61 0)
 		(unit 1)
@@ -4899,6 +5083,76 @@
 			(project "PicoPowerManagement"
 				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
 					(reference "#PWR036")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 77.47 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4d85d862-1828-4b5f-9fc8-18c75bb3b07c")
+		(property "Reference" "C38"
+			(at 80.01 87.6362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 80.01 90.1762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 77.47 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 77.47 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 77.47 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d3b16572-bc2c-4a5b-9c0e-19290d0d5acf")
+		)
+		(pin "2"
+			(uuid "ccb32c58-ac41-4766-9c1d-ca4fbd8f4673")
+		)
+		(instances
+			(project "PicoPowerManagement"
+				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -5552,6 +5806,72 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 82.55 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9b547c51-39dc-4043-8ebf-0fc8603085f2")
+		(property "Reference" "#PWR083"
+			(at 82.55 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 82.55 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 82.55 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 82.55 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 82.55 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eff6618b-50f1-4a8c-9e8b-08aa9ff14caa")
+		)
+		(instances
+			(project "PicoPowerManagement"
+				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
+					(reference "#PWR083")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 151.13 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5611,6 +5931,76 @@
 			(project "PicoPowerManagement"
 				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
 					(reference "#PWR049")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 147.32 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9cc690c0-ed5c-4dca-9cea-1855e6045e1d")
+		(property "Reference" "C44"
+			(at 149.86 87.6362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 149.86 90.1762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 147.32 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 147.32 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 147.32 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2b7ef5e3-f1f3-4875-9c93-5600b8c65e90")
+		)
+		(pin "2"
+			(uuid "28186d05-e6b4-463d-afda-824f604bddc4")
+		)
+		(instances
+			(project "PicoPowerManagement"
+				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -5887,6 +6277,142 @@
 			(project "PicoPowerManagement"
 				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
 					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 137.16 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a125b07f-494b-4f15-8752-a441f954bc3b")
+		(property "Reference" "C40"
+			(at 139.7 87.6362 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 139.7 90.1762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 137.16 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 137.16 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 137.16 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "daf9f740-bf1e-4c01-9d6b-0310b03ccbea")
+		)
+		(pin "2"
+			(uuid "ae8e8e06-8314-4fef-9581-bb6c47ee5ff0")
+		)
+		(instances
+			(project "PicoPowerManagement"
+				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
+					(reference "C40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 142.24 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1d71afb-9410-41e3-91fc-7f21685f9efb")
+		(property "Reference" "#PWR085"
+			(at 142.24 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 142.24 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 142.24 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 142.24 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 142.24 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "471f1f0e-b519-4183-ad85-322c0e75e9c0")
+		)
+		(instances
+			(project "PicoPowerManagement"
+				(path "/450b940c-8305-4571-abac-103e5c28560c/959f076d-7a80-4a8e-b58c-8ce3cee1da94"
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
