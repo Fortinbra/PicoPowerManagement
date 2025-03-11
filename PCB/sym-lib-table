@@ -11,4 +11,5 @@
   (lib (name "SI2312")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SI2312/SI2312.kicad_sym")(options "")(descr ""))
   (lib (name "LM338")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LM338T_NOPB/KiCADv6/2025-03-01_03-59-46.kicad_sym")(options "")(descr ""))
   (lib (name "LP5810")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LP5810ADSDR/KiCADv6/2025-03-01_17-57-20.kicad_sym")(options "")(descr ""))
+  (lib (name "2N3904")(type "KiCad")(uri "${KIPRJMOD}/Libraries/2N3904 (2)/2N3904.kicad_sym")(options "")(descr ""))
 )
