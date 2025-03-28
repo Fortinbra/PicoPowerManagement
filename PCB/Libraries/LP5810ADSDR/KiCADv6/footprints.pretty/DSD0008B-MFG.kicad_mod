@@ -268,38 +268,6 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "13b936fa-9bd5-4ce4-ba7b-5ede5f89f65d")
 	)
-	(pad "10" thru_hole circle
-		(at 0 -0.950001)
-		(size 0.499999 0.499999)
-		(drill 0.2032)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "9ef86ce3-03ae-4393-9a86-7f4e064fe829")
-	)
-	(pad "11" thru_hole circle
-		(at 0 0.950001)
-		(size 0.499999 0.499999)
-		(drill 0.2032)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "17832970-da5a-4b6b-8d6a-afe8955d4787")
-	)
-	(pad "12" thru_hole circle
-		(at -0.575 0)
-		(size 0.499999 0.499999)
-		(drill 0.2032)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "1e2836e7-bde6-4636-9f18-56d7c45c5305")
-	)
-	(pad "13" thru_hole circle
-		(at 0.575 0)
-		(size 0.499999 0.499999)
-		(drill 0.2032)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "7ca915ab-fd8f-41e7-a133-392a3b5faa54")
-	)
 	(embedded_fonts no)
 	(model "${KIPRJMOD}/Libraries/LP5810ADSDR/DSD0008B.stp"
 		(offset
