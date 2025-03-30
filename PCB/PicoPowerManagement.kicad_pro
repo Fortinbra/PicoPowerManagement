@@ -60,39 +60,31 @@
       ],
       "drc_exclusions": [
         [
-          "starved_thermal|33142000|21777922|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|ea3aaaab-1384-493b-aab5-a8896d2f6619|B.Cu",
+          "starved_thermal|35515000|27835000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|988229ec-8149-4ef5-b7d3-a529b3ecb0fd|F.Cu",
           ""
         ],
         [
-          "starved_thermal|33142000|22865000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|ea3aaaab-1384-493b-aab5-a8896d2f6619|F.Cu",
+          "starved_thermal|35560000|58420000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|a758f45a-befe-4976-ac20-76daf9159bc7|In2.Cu",
           ""
         ],
         [
-          "starved_thermal|33142000|25405000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|8a813a44-f341-43c1-a8ef-a35c53e57d0e|F.Cu",
+          "starved_thermal|39738000|27835000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|7da325bb-c884-479d-856e-3d240db4ea1a|F.Cu",
           ""
         ],
         [
-          "starved_thermal|38100000|80827922|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|357adadb-8273-4e05-ae68-0c226519f040|B.Cu",
+          "starved_thermal|41727078|58420000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|d77c298a-962a-4ccb-b006-bd4942fde536|In2.Cu",
           ""
         ],
         [
-          "starved_thermal|38100000|81915000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|357adadb-8273-4e05-ae68-0c226519f040|F.Cu",
+          "starved_thermal|45963702|56235716|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|736b67cc-3f95-4dc6-87d7-9b67d03a2a80|In2.Cu",
           ""
         ],
         [
-          "starved_thermal|38100000|85542078|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|eaaa536e-0f6c-40b1-b40e-0eb9f3e15ca3|B.Cu",
+          "starved_thermal|47913224|38446775|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|e26a15e4-0a24-40c5-ad2e-d12f3af3ef0c|F.Cu",
           ""
         ],
         [
-          "starved_thermal|40640000|58420000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|d77c298a-962a-4ccb-b006-bd4942fde536|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|44450000|36830000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|3473b126-16db-42ea-a1a8-4abae8aa0c0f|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|44450000|59690000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|ac56adeb-8076-4a1f-9d96-346b19d6f608|B.Cu",
+          "starved_thermal|47913224|38446775|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|e26a15e4-0a24-40c5-ad2e-d12f3af3ef0c|In2.Cu",
           ""
         ],
         [
@@ -100,35 +92,11 @@
           ""
         ],
         [
-          "starved_thermal|53340000|26487078|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|5ee1cb55-3386-4e6d-9891-28d69c36af4d|B.Cu",
+          "starved_thermal|59309000|69723000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|f7a67f86-e42a-41e4-94c3-78eece698d12|B.Cu",
           ""
         ],
         [
-          "starved_thermal|58420000|80954922|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|abe9f20f-4346-4b69-aa40-dcf04961b034|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|66929000|69723000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|34ded9e0-4167-4208-935d-abfde7d8e3d3|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|67310000|36830000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|b2b99f98-9731-43cb-8296-3b2bb9facf46|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|69469000|69723000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|caaff512-b33d-40b7-859f-1db3fd8c235a|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|72009000|69723000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|d787630c-f89a-4bed-be8f-d0b843643ef2|B.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|78740000|84582000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|e90b126e-39d4-4c66-b55e-0f96f3c823ad|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|79375000|46609000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|54c21115-fe5b-4baa-b6e9-8c74853f226c|F.Cu",
+          "starved_thermal|61849000|69723000|5ab2ff70-1ad3-467a-98fc-dc6e4e95021a|bec2b2e6-9dc8-4712-a787-9621b430ee45|In2.Cu",
           ""
         ]
       ],
@@ -713,6 +681,10 @@
     [
       "450b940c-8305-4571-abac-103e5c28560c",
       "Root"
+    ],
+    [
+      "d382c725-b6b5-4aa3-be19-6d37340bbbd0",
+      "USBConnections"
     ]
   ],
   "text_variables": {}
